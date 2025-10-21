@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(225, 231, 237);
+}
+
+.box {
+    width: 900px;
+    background-color: white;
+    padding: 30px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(183, 182, 182);
+    box-shadow: 0 0 5px 1px rgb(176, 176, 176);
+    font-family: arial;
+}
+
+#EXAMPLETEA1 {
+    background-color: rgb(230, 234, 238);
+    padding: 10px;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(165, 164, 190);
+}
